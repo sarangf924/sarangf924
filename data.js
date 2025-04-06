@@ -9,3 +9,4 @@ data = [
 
 data.forEach(([key, value]) => map.set(key, value)); // Add all pairs at once
 //console.log(map.get(window.location.href)); // Outputs: "value1"
+alert('hello')
