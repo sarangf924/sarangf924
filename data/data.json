@@ -4,11 +4,63 @@
         "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/1.srt"
     },
     {
-        "key": "key2",
-        "value": "value2"
+        "key": "https://www.bilibili.tv/en/video/4794375621054464?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/2.srt"
     },
     {
-        "key": "key3",
-        "value": "value3"
+        "key": "https://www.bilibili.tv/en/video/4794375824740352?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/3.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794376982630400?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/4.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794377032306688?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/5.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794398110650880?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/6.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794466025083392?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/7.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794466055623168?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/8.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794466114212352?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/9.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794466141343744?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/10.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794466174898176?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/11.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794860406968320?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/12.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794860418109952?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/13.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794860517724672?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/14.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794860530438656?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/15.srt"
+    },
+    {
+        "key": "https://www.bilibili.tv/en/video/4794860544462848?bstar_from=bstar-web.ugc-video-detail.related-recommend.all",
+        "value": "https://raw.githubusercontent.com/sarangf924/sarangf924/refs/heads/main/BR/16.srt"
     }
 ]
